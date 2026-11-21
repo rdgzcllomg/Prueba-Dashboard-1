@@ -1,0 +1,25 @@
+{
+  "name": "Dashboard Operativo — Horno 1 (Datos H1)",
+  "short_name": "Horno 1 KPI",
+  "description": "Tablero operativo diario de Horno 1 (Datos H1) con sincronización Google Sheets y soporte offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
