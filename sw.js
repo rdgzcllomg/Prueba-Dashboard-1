@@ -1,4 +1,4 @@
-const CACHE_NAME = 'horno1-h1-pwa-v1';
+const CACHE_NAME = 'horno1-h1-pwa-v2';
 const ASSETS = [
   './',
   './index.html',
